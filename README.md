@@ -1,7 +1,7 @@
 <div align="center">
 <h1>About me |  Alex 👨🏻‍💻</h1>
 <p>
-A  freelance  full stack developer who loves  programming, dedicated to creating and maintaining  services  and  digital experiences  that your users can enjoy in your company or project.
+I'm a versatile developer, skilled in JavaScript, TypeScript, Python and Rust. My expertise lies in full-stack development with a focus on JavaScript/Typescript and Node.js.
 </p>
 <div>
   
