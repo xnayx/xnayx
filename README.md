@@ -1,7 +1,7 @@
 <div align="center">
 <h1>About me |  Alex 👨🏻‍💻</h1>
 I'm a versatile developer, skilled in JavaScript, TypeScript, Python and Rust. My expertise lies in full-stack development with a focus on JavaScript/Typescript and Node.js.
-<h3 align="left">Languages and Tools:</h3>
+<h3>Skills</h3>
 <p>
 <a href="https://developer.mozilla.org/es/docs/Web/JavaScript"><img src="https://github.com/devicons/devicon/raw/refs/heads/master/icons/javascript/javascript-original.svg" width="50px" /></a>
 <a href="https://www.typescriptlang.org"><img src="https://github.com/devicons/devicon/raw/refs/heads/master/icons/typescript/typescript-original.svg" width="50px" /></a>
