@@ -1,12 +1,8 @@
 <div align="center">
 <h1>About me |  Alex 👨🏻‍💻</h1>
-<div display="flex">
 <p>
 I'm a versatile developer, skilled in JavaScript, TypeScript, Python and Rust. My expertise lies in full-stack development with a focus on JavaScript/Typescript and Node.js.
 </p>
-
-[![Discord Presence](https://lanyard.cnrad.dev/api/795360779237851167)](https://discord.com/users/795360779237851167)
-</div>
 <table>
   <tr>
     <td align="center" style="padding=0;width=50%;">
@@ -17,4 +13,6 @@ I'm a versatile developer, skilled in JavaScript, TypeScript, Python and Rust. M
     </td>
   </tr>
 </table>
+
+[![Discord Presence](https://lanyard.cnrad.dev/api/795360779237851167)](https://discord.com/users/795360779237851167)
 </div>
