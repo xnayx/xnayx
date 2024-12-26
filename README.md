@@ -7,11 +7,20 @@ I'm a versatile developer, skilled in JavaScript, TypeScript, Python and Rust. M
 <p>
 <a href="https://developer.mozilla.org/es/docs/Web/JavaScript"><img src="https://github.com/devicons/devicon/raw/refs/heads/master/icons/javascript/javascript-original.svg" width="50px" /></a>
 <a href="https://www.typescriptlang.org"><img src="https://github.com/devicons/devicon/raw/refs/heads/master/icons/typescript/typescript-original.svg" width="50px" /></a>
-<a href="https://nodejs.org/"><img src="https://github.com/devicons/devicon/raw/refs/heads/master/icons/nodejs/nodejs-original.svg" width="50px" /></a>
-<a href="https://www.python.org"><img src="https://github.com/devicons/devicon/raw/refs/heads/master/icons/python/python-original-wordmark.svg" width="50px" /></a>
+<a href="https://git-scm.com"><img src="https://github.com/devicons/devicon/raw/refs/heads/master/icons/git/git-original.svg" width="50px" /></a>
+<a href="https://nodejs.org"><img src="https://github.com/devicons/devicon/raw/refs/heads/master/icons/nodejs/nodejs-original.svg" width="50px" /></a>
+<a href="https://nextjs.org"><img src="https://github.com/devicons/devicon/raw/refs/heads/master/icons/nextjs/nextjs-original.svg" width="50px" /></a>
+<a href="https://vercel.com"><img src="https://github.com/devicons/devicon/raw/refs/heads/master/icons/vercel/vercel-original.svg" width="50px" /></a>
+<a href="https://www.mongodb.com"><img src="https://github.com/devicons/devicon/raw/refs/heads/master/icons/mongodb/mongodb-original-wordmark.svg" width="50px" /></a>
+<a href="https://www.mysql.com"><img src="https://github.com/devicons/devicon/raw/refs/heads/master/icons/mysql/mysql-original-wordmark.svg" width="50px" /></a>
+<a href="https://es.react.dev"><img src="https://github.com/devicons/devicon/raw/refs/heads/master/icons/react/react-original.svg" width="50px" /></a>
+<a href="https://expressjs.com"><img src="https://github.com/devicons/devicon/raw/refs/heads/master/icons/express/express-original.svg" width="50px" /></a>
+<a href="https://sass-lang.com"><img src="https://github.com/devicons/devicon/raw/refs/heads/master/icons/sass/sass-original.svg" width="50px" /></a>
 <a href="https://developer.mozilla.org/es/docs/Web/HTML"><img src="https://github.com/devicons/devicon/raw/refs/heads/master/icons/html5/html5-original.svg" width="50px" /></a>
 <a href="https://developer.mozilla.org/es/docs/Web/CSS"><img src="https://github.com/devicons/devicon/raw/refs/heads/master/icons/css3/css3-original.svg" width="50px" /></a>
 <a href="https://getbootstrap.com"><img src="https://github.com/devicons/devicon/raw/refs/heads/master/icons/bootstrap/bootstrap-original-wordmark.svg" width="50px" /></a>
+<a href="https://www.rust-lang.org"><img src="https://github.com/devicons/devicon/raw/refs/heads/master/icons/rust/rust-original.svg" width="50px" /></a>
+<a href="https://www.python.org"><img src="https://github.com/devicons/devicon/raw/refs/heads/master/icons/python/python-original-wordmark.svg" width="50px" /></a>
 </p>
 <table>
   <tr>
