@@ -13,7 +13,6 @@ I'm a versatile developer, skilled in JavaScript, TypeScript, Python and Rust. M
 <a href="https://developer.mozilla.org/es/docs/Web/CSS"><img src="https://github.com/devicons/devicon/raw/refs/heads/master/icons/css3/css3-original.svg" width="50px" /></a>
 <a href="https://getbootstrap.com"><img src="https://github.com/devicons/devicon/raw/refs/heads/master/icons/bootstrap/bootstrap-original-wordmark.svg" width="50px" /></a>
 <a href="https://nextjs.org"><img src="https://github.com/devicons/devicon/raw/refs/heads/master/icons/nextjs/nextjs-original.svg" width="50px" /></a>
-<a href="https://vercel.com"><img src="https://github.com/devicons/devicon/raw/refs/heads/master/icons/vercel/vercel-original-wordmark.svg" width="50px" /></a>
 <a href="https://www.mongodb.com"><img src="https://github.com/devicons/devicon/raw/refs/heads/master/icons/mongodb/mongodb-original-wordmark.svg" width="50px" /></a>
 <a href="https://www.mysql.com"><img src="https://github.com/devicons/devicon/raw/refs/heads/master/icons/mysql/mysql-original-wordmark.svg" width="50px" /></a>
 <a href="https://es.react.dev"><img src="https://github.com/devicons/devicon/raw/refs/heads/master/icons/react/react-original.svg" width="50px" /></a>
